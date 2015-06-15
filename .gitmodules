@@ -1,0 +1,24 @@
+[submodule "epel"]
+	path = epel
+	url = git@github.com:bitmotive/ansible-role-epel
+[submodule "cron"]
+	path = cron
+	url = git@github.com:bitmotive/ansible-role-cron
+[submodule "sshd"]
+	path = sshd
+	url = git@github.com:bitmotive/ansible-role-sshd
+[submodule "hostnames"]
+	path = hostnames
+	url = git@github.com:bitmotive/ansible-role-hostnames
+[submodule "users"]
+	path = users
+	url = git@github.com:bitmotive/ansible-role-users
+[submodule "motd"]
+	path = motd
+	url = git@github.com:bitmotive/ansible-role-motd
+[submodule "packages"]
+	path = packages
+	url = git@github.com:bitmotive/ansible-role-packages
+[submodule "time"]
+	path = time
+	url = git@github.com:bitmotive/ansible-role-time
