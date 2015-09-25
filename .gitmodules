@@ -1,6 +1,3 @@
-[submodule "epel"]
-	path = epel
-	url = git@github.com:bitmotive/ansible-role-epel
 [submodule "cron"]
 	path = cron
 	url = git@github.com:bitmotive/ansible-role-cron
